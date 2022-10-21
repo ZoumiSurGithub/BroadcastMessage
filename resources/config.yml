@@ -1,0 +1,9 @@
+# Liste des messages envoyés | List of sent messages
+messages:
+  # Les messages sont envoyé dans l'ordre. | The messages are sent in order.
+  - "This plugin was created by Zoumi#9899."
+  - "Enjoy :)"
+
+# Temps avant le prochain message | Time to next message
+# en seconde | in second
+time: 30

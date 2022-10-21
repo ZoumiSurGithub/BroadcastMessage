@@ -1,0 +1,5 @@
+name: BroadcastMessage
+version: 0.0.1-release
+api: 4.0.0
+main: Zoumi\BroadcastMessage\BroadcastMessage
+author: Zoumi
